@@ -1,31 +1,29 @@
-# javascript
-<h1 align="center">Documenting my Javascript projects</h1>
-![](images/boot1.jpg)
+# Javascript
 
-## This is a *Responsive* demo website made using the front-end framework Bootstrap
-Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components
+<h2 align="center">Documenting my Javascript projects</h2>
+<img align="center" src="image/javascript2.png">
 
-## Demo site preview
+<br>
 
-## 1st screen
+## Project description
 
-![](images/Tinder-img.JPG)
+This repo describes my continued documentation of my projects and learnings carried out using the Javascript programming language, file may include;
 
-## 2nd screen
+- [A fizzbuzz program](fizz_buzz.js)
+- [BMI Calculator](bmi-calculator.js)
+- [Concept of arrays in Javascript](concept_of_arrays.js) and so much more!!!
 
-![](images/Tinder-img-2.JPG)
+## About Javascript
 
-## 3rd screen
-
-![](images/Tinder-img-3.JPG)
+JavaScript, often abbreviated to JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries
 
 ## Author
 
-* [GitHub](https://github.com/daveeazi)
-* [Twitter](https://twitter.com/iamdaveeazi)
-* [LinkedIn](https://www.linkedin.com/in/david-atat/)
+- [GitHub](https://github.com/daveeazi)
+- [Twitter](https://twitter.com/iamdaveeazi)
+- [LinkedIn](https://www.linkedin.com/in/david-atat/)
 
-## Contributing 
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
