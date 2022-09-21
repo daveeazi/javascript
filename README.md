@@ -7,8 +7,10 @@
 
 ## Project description
 
-This repo describes my continued documentation of my projects and learnings carried out using the Javascript programming language, file may include;
+This repo describes my continued documentation of my projects and learnings carried out using the Javascript programming language, <br>
+For more projects visit this [this repository](https://github.com/daveeazi?tab=repositories)
 
+Files include;
 - [A fizzbuzz program](fizz_buzz.js)
 - [BMI Calculator](bmi-calculator.js)
 - [Concept of arrays in Javascript](concept_of_arrays.js) and so much more!!!
